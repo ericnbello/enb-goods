@@ -1,3 +1,3 @@
 # ENB Goods
 
-Built with Next.js[Next.js](https://nextjs.com) tyled with [Tailwind CSS](https://tailwindcss.com)
+Built with [Next.js](https://nextjs.com) and styled with [Tailwind CSS](https://tailwindcss.com)
